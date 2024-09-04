@@ -6,7 +6,7 @@ CSS Selector:
 */
 
 /* root will overwrite any css styling in case of conflict */
-:root {
+/* :root {
     --background-image-url-02: url('./images/01-zuitt_2.png');
     --background-image-url-04: url('./images/02-zuitt_4.png');
     --background-image-url-08: url('./images/03-zuitt_8.png');
@@ -20,7 +20,7 @@ CSS Selector:
     --background-image-url-2048: url('./images/11-zuitt_2048.png');
     --background-image-url-4096: url('./images/12-zuitt_4096.png');
     --background-image-url-8192: url('./images/13-zuitt_8192.png');
-}
+} */
 
 body{
     font-family: Arial, Helvetica, sans-serif;
